@@ -1,6 +1,6 @@
-token= NTI2Njc5OTc5NTk0MDg4NDY5.DwIsgQ.EEAepZm-557c4FYYnw2T4isVGfc 
-owner=  494164834049327125
-prefix= J
-game= Type Jhelp
+token= NTI4ODg4OTY5NDI1ODQ2Mjcy.Dwo16Q.FehSBdBm7k9O9gWMc1rohpAyfoU
+owner=  333140974865874944
+prefix= F
+game= Type Fhelp
 stayinchannel=true 
 songinstatus=false 
