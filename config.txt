@@ -1,6 +1,6 @@
-token= NTI4ODg4OTY5NDI1ODQ2Mjcy.Dwo16Q.FehSBdBm7k9O9gWMc1rohpAyfoU
-owner=  333140974865874944
-prefix= F
-game= Type Fhelp
+token= NTI4ODkxNDc5NjI0NTE1NTg0.Dw6D5g.vrxkAkWr4a3ls02UhMKU7U7-3fE
+owner=  510520286488035339
+prefix= 7
+game= Type 7help
 stayinchannel=true 
 songinstatus=false 
