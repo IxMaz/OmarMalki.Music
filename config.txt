@@ -1,6 +1,6 @@
-token= NTI4ODkxNDc5NjI0NTE1NTg0.Dw6D5g.vrxkAkWr4a3ls02UhMKU7U7-3fE
-owner=  510520286488035339
-prefix= 7
-game= Type 7help
+token= NTI4ODkxNDc5NjI0NTE1NTg0.Dw-ryg.ex-FvZnLxpPJ21kzlPRJkHKZjho
+owner=  333140974865874944
+prefix= 3
+game= Type 3help
 stayinchannel=true 
 songinstatus=false 
